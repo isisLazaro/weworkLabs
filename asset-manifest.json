@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/weworkLabs/static/css/main.3a6bd422.chunk.css",
-    "main.js": "/weworkLabs/static/js/main.8afd38ed.chunk.js",
-    "main.js.map": "/weworkLabs/static/js/main.8afd38ed.chunk.js.map",
+    "main.css": "/weworkLabs/static/css/main.a409548f.chunk.css",
+    "main.js": "/weworkLabs/static/js/main.e8648016.chunk.js",
+    "main.js.map": "/weworkLabs/static/js/main.e8648016.chunk.js.map",
     "runtime-main.js": "/weworkLabs/static/js/runtime-main.3565bad7.js",
     "runtime-main.js.map": "/weworkLabs/static/js/runtime-main.3565bad7.js.map",
-    "static/js/2.347c8d04.chunk.js": "/weworkLabs/static/js/2.347c8d04.chunk.js",
-    "static/js/2.347c8d04.chunk.js.map": "/weworkLabs/static/js/2.347c8d04.chunk.js.map",
+    "static/js/2.b4a4033e.chunk.js": "/weworkLabs/static/js/2.b4a4033e.chunk.js",
+    "static/js/2.b4a4033e.chunk.js.map": "/weworkLabs/static/js/2.b4a4033e.chunk.js.map",
     "index.html": "/weworkLabs/index.html",
-    "precache-manifest.1e46bf2a9bb602e3caf4f5420ac7ade5.js": "/weworkLabs/precache-manifest.1e46bf2a9bb602e3caf4f5420ac7ade5.js",
+    "precache-manifest.d08530e7386ad0fe6eb3e6abb9fac1a6.js": "/weworkLabs/precache-manifest.d08530e7386ad0fe6eb3e6abb9fac1a6.js",
     "service-worker.js": "/weworkLabs/service-worker.js",
-    "static/css/main.3a6bd422.chunk.css.map": "/weworkLabs/static/css/main.3a6bd422.chunk.css.map"
+    "static/css/main.a409548f.chunk.css.map": "/weworkLabs/static/css/main.a409548f.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3565bad7.js",
-    "static/js/2.347c8d04.chunk.js",
-    "static/css/main.3a6bd422.chunk.css",
-    "static/js/main.8afd38ed.chunk.js"
+    "static/js/2.b4a4033e.chunk.js",
+    "static/css/main.a409548f.chunk.css",
+    "static/js/main.e8648016.chunk.js"
   ]
 }
